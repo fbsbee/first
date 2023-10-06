@@ -1,3 +1,8 @@
 personal statement for me
+<<<<<<< HEAD
 
 개발자로서 포부
+=======
+i'm y.
+it's sub2 branch
+>>>>>>> sub2
