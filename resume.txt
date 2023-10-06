@@ -1,5 +1,10 @@
 test merge
+<<<<<<< HEAD
 
 자격증
 대외활동
 사용기술
+=======
+name y
+age 1
+>>>>>>> sub1
